@@ -1,2 +1,0 @@
-# TutorialPython
-python sin fronteras
